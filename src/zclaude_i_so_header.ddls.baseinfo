@@ -1,0 +1,4 @@
+{
+  "fromEntities": ["ZCLD_SO_HEADER"],
+  "associatedEntities": ["ZCLAUDE_I_SO_ITEM"]
+}

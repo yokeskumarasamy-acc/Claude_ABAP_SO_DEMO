@@ -1,0 +1,5 @@
+@EndUserText.label: 'UI Service: Sales Orders'
+define service ZClaude_UI_SO {
+  expose ZClaude_C_SO_Header   as SalesOrder;
+  expose ZClaude_C_SO_Item     as SalesOrderItem;
+}
