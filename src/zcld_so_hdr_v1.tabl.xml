@@ -15,6 +15,7 @@
         <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
         <AS4LOCAL>A</AS4LOCAL>
         <TABART>APPL0</TABART>
+        <TABKAT>0</TABKAT>
         <BUFALLOW>N</BUFALLOW>
       </DD09L>
       <DD03P_TABLE>
