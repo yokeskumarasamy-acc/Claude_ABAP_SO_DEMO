@@ -3,7 +3,7 @@
   <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
       <DD02V>
-        <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+        <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
         <DDLANGUAGE>E</DDLANGUAGE>
         <TABCLASS>TRANSP</TABCLASS>
         <CLIDEP>X</CLIDEP>
@@ -12,14 +12,14 @@
         <EXCLASS>1</EXCLASS>
       </DD02V>
       <DD09L>
-        <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+        <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
         <AS4LOCAL>A</AS4LOCAL>
         <TABART>APPL0</TABART>
         <BUFALLOW>N</BUFALLOW>
       </DD09L>
       <DD03P_TABLE>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>CLIENT</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0001</POSITION>
@@ -37,7 +37,7 @@
           <SCRTEXT_L>Client</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>VBELN</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0002</POSITION>
@@ -55,7 +55,7 @@
           <SCRTEXT_L>Sales Document</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>KUNNR</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0003</POSITION>
@@ -71,7 +71,7 @@
           <SCRTEXT_L>Customer Number</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>AUART</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0004</POSITION>
@@ -87,7 +87,7 @@
           <SCRTEXT_L>Sales Document Type</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>ERDAT</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0005</POSITION>
@@ -103,7 +103,7 @@
           <SCRTEXT_L>Date Created</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>VKORG</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0006</POSITION>
@@ -119,7 +119,7 @@
           <SCRTEXT_L>Sales Organization</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>NETWR</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0007</POSITION>
@@ -136,7 +136,7 @@
           <SCRTEXT_L>Net Value of Order</SCRTEXT_L>
         </DD03P>
         <DD03P>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <FIELDNAME>WAERK</FIELDNAME>
           <DDLANGUAGE>E</DDLANGUAGE>
           <POSITION>0008</POSITION>
@@ -154,7 +154,7 @@
       </DD03P_TABLE>
       <TABL_EXTRAS>
         <TDDAT>
-          <TABNAME>ZCLD_SO_HEADER_V1</TABNAME>
+          <TABNAME>ZCLD_SO_HDR_V1</TABNAME>
           <CCLASS>CUS_DEV_SUP_DA</CCLASS>
         </TDDAT>
       </TABL_EXTRAS>
