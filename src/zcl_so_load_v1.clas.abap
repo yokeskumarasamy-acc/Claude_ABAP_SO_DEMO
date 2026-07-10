@@ -55,7 +55,7 @@ CLASS zcl_so_load_v1 IMPLEMENTATION.
           vrkme  = 'EA'
           netpr  = lv_netpr
           netwr  = lv_netwr
-          werks  = lv_v(4) ) ).
+          werks  = lv_v ) ).
 
         lv_hdr_netwr = lv_hdr_netwr + lv_netwr.
       ENDDO.
@@ -65,9 +65,9 @@ CLASS zcl_so_load_v1 IMPLEMENTATION.
         kunnr = |{ 100000 + lv_idx WIDTH = 10 PAD = '0' ALIGN = RIGHT }|
         auart = 'OR'
         erdat = |{ sy-datum }|
-        vkorg = lv_v(4)
+        vkorg = lv_v
         netwr = lv_hdr_netwr
-        waerk = lv_w(5) ) ).
+        waerk = lv_w ) ).
     ENDDO.
 
     DELETE FROM zcld_so_hdr_v1.
