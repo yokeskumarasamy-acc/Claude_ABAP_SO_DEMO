@@ -1,9 +1,21 @@
 {
-  "version": 1,
-  "from": [
-    "zcld_so_hdr_v1"
-  ],
-  "associated": [
-    "ZClaude_I_SO_Item_V1"
-  ]
+"BASEINFO":
+{
+"FROM":
+[
+"ZCLD_SO_HDR_V1"
+],
+"ASSOCIATED":
+[
+"ZCLAUDE_I_SO_ITEM_V1"
+],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"SCALAR_FUNCTION":
+[],
+"VERSION":0,
+"ANNOREF_EVALUATION_ERROR":""
+}
 }

@@ -1,9 +1,21 @@
 {
-  "version": 1,
-  "from": [
-    "ZClaude_I_SO_Header_V1"
-  ],
-  "associated": [
-    "ZClaude_C_SO_Item_V1"
-  ]
+"BASEINFO":
+{
+"FROM":
+[
+"ZCLAUDE_I_SO_HEADER_V1"
+],
+"ASSOCIATED":
+[
+"ZCLAUDE_C_SO_ITEM_V1"
+],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"SCALAR_FUNCTION":
+[],
+"VERSION":0,
+"ANNOREF_EVALUATION_ERROR":""
+}
 }
