@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SRVD" serializer_version="v1.0.0">
+  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+    <asx:values>
+      <DATA>
+        <NAME>ZCLAUDE_UI_SO</NAME>
+        <TYPE>SRVD/SRV</TYPE>
+        <LANGUAGE>EN</LANGUAGE>
+        <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
+        <SOURCE_URI>./zclaude_ui_so/source/main</SOURCE_URI>
+        <SOURCE_TYPE>ABAP_SOURCE</SOURCE_TYPE>
+        <SRVD_SOURCE_TYPE>S</SRVD_SOURCE_TYPE>
+      </DATA>
+    </asx:values>
+  </asx:abap>
+</abapGit>
