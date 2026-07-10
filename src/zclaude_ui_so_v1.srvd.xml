@@ -3,13 +3,11 @@
   <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
     <asx:values>
       <SRVD>
-        <NAME>ZCLAUDE_UI_SO_V1</NAME>
-        <TYPE>SRVD/SRV</TYPE>
-        <LANGUAGE>EN</LANGUAGE>
-        <MASTER_LANGUAGE>EN</MASTER_LANGUAGE>
-        <SOURCE_URI>./zclaude_ui_so_v1/source/main</SOURCE_URI>
-        <SOURCE_TYPE>ABAP_SOURCE</SOURCE_TYPE>
-        <SRVD_SOURCE_TYPE>S</SRVD_SOURCE_TYPE>
+        <HEADER>
+          <DESCRIPTION>Sales Order UI Service V1</DESCRIPTION>
+          <ORIGINAL_LANGUAGE>E</ORIGINAL_LANGUAGE>
+          <ABAP_LANGUAGE_VERSION>X</ABAP_LANGUAGE_VERSION>
+        </HEADER>
       </SRVD>
     </asx:values>
   </asx:abap>
